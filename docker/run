@@ -1,0 +1,3 @@
+docker run -d -p 2222:22 -e USER=chuck -e PASSWORD=password sftpd_server
+
+
